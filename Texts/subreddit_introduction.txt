@@ -1,0 +1,29 @@
+Hey r/Twitch!
+
+Many of you are eagerly waiting for June 28th, the release day of Super Mario Maker 2™!
+And I bet many of you also want to either stream or record that game, maybe even play your viewers level.
+That's where we come into play! MakerHub Studio is the first easy-to-use queue system for your Super Mario Maker 2™ livestreams and videos!
+
+With our powerful service, we will empower streamers and content creators and give them the tools they need to queue up, moderate and play viewer requested levels without fiddeling around on website-dashboards or scripts.
+
+These are our main features:
+* YourQueue. - Connect with your viewers like never before or gather a collection of fan-created content for your next livestream or video!
+* YourTimer. - Track your lowest completion time for recurring levels no matter who requested it in your queue! Or keep calm and play at your own pace, you decide!
+* YourOverlay. - Show your viewers automatically which content you are currently playing. Fully customize your stream overlay to match your channels branding and use any streaming software with a browser source!
+* YourPage. - Let your fans request levels for your queue with a fully customizable microsite to match your channels branding.
+* Available on June 28th! We know it's technically not a feature, but at least you now know that you can use MakerHub Studio for free on launch day!
+
+You can easily control every aspect of your queue and timer with our client, that takes up near to no space and also features a light/dark mode!
+We know that there are already queue systems out there that will probably announce Super Mario Maker 2™ support as well. I know, that the WarpWorld team is definitely working hard on their MultiQueue project, so we wanted to differentiate ourselves a bit. (Great people by the way, had the pleasure of working on a project similar to them back when Super Mario Maker™ launched) So here are some key features that differentiate us from WarpWorld and other services:
+
+* Full queue control. You will be able to leave it open for requests for days or months. On top of that, we will provide you and your moderators with tools to filter out spam-requests or fake-requests. This is especially helpful for channels with a larger audience.
+* API support. We have a powerful API that can be hooked into Twitch bots, Discord bots or any other application or bot you want.
+* Your personalized page. This is a small micro page that you can design to your heart's content. It will feature your streams or videos and lets users request levels. You can fully customize this page, even with custom CSS.
+* Our stream overlay. This is something WarpWorld already offers, but it's much more powerful on MakerHub Studio. Our stream/video overlay not only has 3 build-in styles (6 with the dark modes included), but again will give you the power to fully customize your own widget with not only custom CSS but also custom HTML. You can decide what to show and design it however you want so it blends in nicely with your brand or existing stream design.
+
+I hope I was able to outline our project to you. Feel free to ask us anything you want (Yes, even that horse-sized duck/duck-sized horses question), we'll respond back as soon as possible.
+
+Check out our website: https://makerhub.studio
+You can also request access to our pre-release beta on there.
+
+TLDR: MakerHub Studio will be a powerful queue system for Super Mario Maker 2™. You will also be able to hook into chatbots and show your viewers what you are playing
