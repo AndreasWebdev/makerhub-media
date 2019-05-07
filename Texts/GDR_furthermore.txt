@@ -2,14 +2,14 @@ Hey Dave,
 
 thank you for responding so quickly to my email!
 
-MakerHub Studio aims to be the best solution for content creators and level makers for Super Mario Maker 2. This means we are dedicated to creating tools that not only help video creators and streamers, but also creators of Super Mario Maker 2 levels down the line.
+MakerHub Studio aims to be the best solution for content creators and level makers for Super Mario Maker 2. This means we are dedicated to creating tools that not only help video creators and streamers but also creators of Super Mario Maker 2 levels down the line.
 As our first step, we decided to create a powerful queue system for content creators and since our small team worked on MakerWorlds, a level sharing website that launched with Super Mario Maker on release, we have experience with the community as well.
 Besides our day-one compatibility with Super Mario Maker 2, these are the key features that differentiate us from WarpWorld:
 
 * Full queue control. The queue is your list of pending level requests. You will be able to let it open for requests for days or months. On top of that, we will provide you and your moderators with tools to filter out spam-requests or fake-requests. This is especially helpful for channels with a larger audience like yours.
 * API support. We have a powerful API that can be hooked into Twitch bots, Discord bots or any other application or bot you want.
 * YourPage. This is a small micro page that you can design to your heart's content. It will feature your streams or videos and lets users request levels. You can fully customize this page, even with custom CSS.
-* YourOverlay. This is something WarpWorld already offers, but it's much more powerful on MakerHub Studio. Our stream/video overlay not only has 3 build-in styles (6 with the dark modes included), but again will give you the power to fully customize your own widget with not only custom CSS but also custom HTML. You can decide what to show and design it however you want so it blends in nicely with your brand or existing stream design.
+* YourOverlay. This is something WarpWorld already offers, but it's much more powerful on MakerHub Studio. Our stream/video overlay not only has 3 built-in styles (6 with the dark modes included), but again will give you the power to fully customize your own widget with not only custom CSS but also custom HTML. You can decide what to show and design it however you want so it blends in nicely with your brand or existing stream design.
 
 I hope, I was able to outline our project and answer some of your questions. If you have any additional questions, feel free to get back to me as before.
 
